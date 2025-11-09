@@ -27,11 +27,11 @@ Thumbs.db
 # Model weights and large files (if not needed)
 runs/
 yolo-weights/
-*.pt
-*.pth
+# *.pt
+# *.pth
 
 # Output videos
-output.mp4
+# output.mp4
 processed_*.mp4
 
 # Dataset (if large)
