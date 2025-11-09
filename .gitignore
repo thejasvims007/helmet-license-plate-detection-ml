@@ -1,0 +1,41 @@
+# Virtual environment
+karthik/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model weights and large files (if not needed)
+runs/
+yolo-weights/
+*.pt
+*.pth
+
+# Output videos
+output.mp4
+processed_*.mp4
+
+# Dataset (if large)
+dataset for test/
+train/
+val/
+videos/
